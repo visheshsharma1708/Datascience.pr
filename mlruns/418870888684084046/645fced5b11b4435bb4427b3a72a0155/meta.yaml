@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/svish/OneDrive/Desktop/jupyter-notebook/sklearn/mlruns/418870888684084046/645fced5b11b4435bb4427b3a72a0155/artifacts
+end_time: 1752474989275
+entry_point_name: ''
+experiment_id: '418870888684084046'
+lifecycle_stage: active
+run_id: 645fced5b11b4435bb4427b3a72a0155
+run_name: valuable-dove-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752474980417
+status: 3
+tags: []
+user_id: svish

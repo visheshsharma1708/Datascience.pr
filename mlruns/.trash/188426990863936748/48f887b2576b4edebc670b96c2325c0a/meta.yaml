@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/svish/OneDrive/Desktop/jupyter-notebook/sklearn/mlruns/188426990863936748/48f887b2576b4edebc670b96c2325c0a/artifacts
+deleted_time: 1752476759935
+end_time: 1752475748996
+entry_point_name: ''
+experiment_id: '188426990863936748'
+lifecycle_stage: deleted
+run_id: 48f887b2576b4edebc670b96c2325c0a
+run_name: adaptable-cod-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752475743916
+status: 3
+tags: []
+user_id: svish

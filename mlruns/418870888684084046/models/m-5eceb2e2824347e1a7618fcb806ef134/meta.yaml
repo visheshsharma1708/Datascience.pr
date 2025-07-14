@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/svish/OneDrive/Desktop/jupyter-notebook/sklearn/mlruns/418870888684084046/models/m-5eceb2e2824347e1a7618fcb806ef134/artifacts
+creation_timestamp: 1752474980501
+experiment_id: '418870888684084046'
+last_updated_timestamp: 1752474989260
+model_id: m-5eceb2e2824347e1a7618fcb806ef134
+model_type: null
+name: house_price_model
+source_run_id: 645fced5b11b4435bb4427b3a72a0155
+status: 2
+status_message: null

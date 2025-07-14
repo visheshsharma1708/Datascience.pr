@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/svish/OneDrive/Desktop/jupyter-notebook/sklearn/mlruns/418870888684084046/4d67e4d7f7ca4008a39ad9edf9ec8b10/artifacts
+end_time: 1752475430507
+entry_point_name: ''
+experiment_id: '418870888684084046'
+lifecycle_stage: active
+run_id: 4d67e4d7f7ca4008a39ad9edf9ec8b10
+run_name: clumsy-robin-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752475425549
+status: 3
+tags: []
+user_id: svish

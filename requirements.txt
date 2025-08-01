@@ -6,3 +6,5 @@ scikt-learn
 mlflow
 deepcheck
 evedintly
+tensorflow
+keras

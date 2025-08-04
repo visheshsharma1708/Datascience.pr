@@ -8,3 +8,12 @@ deepcheck
 evedintly
 tensorflow
 keras
+transformers
+tf-keras
+sentence-transformers
+langchain 
+langchain-openai 
+langchain-community 
+langchain-huggingface
+faiss-cpu 
+chromadb

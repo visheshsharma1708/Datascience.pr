@@ -17,3 +17,5 @@ langchain-community
 langchain-huggingface
 faiss-cpu 
 chromadb
+langgraph
+langchain-graph

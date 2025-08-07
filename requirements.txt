@@ -19,3 +19,6 @@ faiss-cpu
 chromadb
 langgraph
 langchain-graph
+grandalf
+langchain-graph-visualization
+pyppeteer
